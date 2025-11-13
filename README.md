@@ -1,1 +1,9 @@
-# Chest-Disease-Classification
+project workflow
+update config.yaml
+update params.yaml
+update entity
+update config manager in src config
+update the components
+update pipelines
+update main.py
+update dvc.yaml
